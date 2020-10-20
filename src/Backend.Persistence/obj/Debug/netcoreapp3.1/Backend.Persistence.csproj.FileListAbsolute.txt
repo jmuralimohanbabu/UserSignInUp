@@ -1,0 +1,8 @@
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/bin/Debug/netcoreapp3.1/Backend.Persistence.deps.json
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/bin/Debug/netcoreapp3.1/Backend.Persistence.dll
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/bin/Debug/netcoreapp3.1/Backend.Persistence.pdb
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/obj/Debug/netcoreapp3.1/Backend.Persistence.AssemblyInfoInputs.cache
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/obj/Debug/netcoreapp3.1/Backend.Persistence.AssemblyInfo.cs
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/obj/Debug/netcoreapp3.1/Backend.Persistence.csproj.CoreCompileInputs.cache
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/obj/Debug/netcoreapp3.1/Backend.Persistence.dll
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Persistence/obj/Debug/netcoreapp3.1/Backend.Persistence.pdb

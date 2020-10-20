@@ -1,0 +1,8 @@
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/bin/Debug/netcoreapp3.1/Backend.Common.deps.json
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/bin/Debug/netcoreapp3.1/Backend.Common.dll
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/bin/Debug/netcoreapp3.1/Backend.Common.pdb
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/obj/Debug/netcoreapp3.1/Backend.Common.AssemblyInfoInputs.cache
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/obj/Debug/netcoreapp3.1/Backend.Common.AssemblyInfo.cs
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/obj/Debug/netcoreapp3.1/Backend.Common.csproj.CoreCompileInputs.cache
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/obj/Debug/netcoreapp3.1/Backend.Common.dll
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Common/obj/Debug/netcoreapp3.1/Backend.Common.pdb

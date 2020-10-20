@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aV/6LOhEIaywL8FqFPcWWNePMYEv0pEZ0HZcC4sVXsrMOYXUoOaBoMIHfORLvI5xumGFOvmlRLQs8VFwPs1i/w==",
+  "success": true,
+  "projectFilePath": "/Users/jagarlapudi/Documents/AWS SignIn using Coginito/src/Backend.Common/Backend.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/jagarlapudi/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.2/microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
+    "/Users/jagarlapudi/.nuget/packages/serilog/2.9.0/serilog.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

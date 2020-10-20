@@ -1,0 +1,8 @@
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/bin/Debug/netcoreapp3.1/Backend.Business.deps.json
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/bin/Debug/netcoreapp3.1/Backend.Business.dll
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/bin/Debug/netcoreapp3.1/Backend.Business.pdb
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/obj/Debug/netcoreapp3.1/Backend.Business.AssemblyInfoInputs.cache
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/obj/Debug/netcoreapp3.1/Backend.Business.AssemblyInfo.cs
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/obj/Debug/netcoreapp3.1/Backend.Business.csproj.CoreCompileInputs.cache
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/obj/Debug/netcoreapp3.1/Backend.Business.dll
+/Users/jagarlapudi/Documents/GitHub/backend/src/Backend.Business/obj/Debug/netcoreapp3.1/Backend.Business.pdb
